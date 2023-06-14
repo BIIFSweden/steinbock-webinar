@@ -15,3 +15,9 @@
 - Workflow publication:
   > Windhager et al. (2023). _An end-to-end workflow for multiplexed image processing and analysis._ Nature Protocols (accepted).  
   > doi: _updated upon publication_.
+
+## Contact details
+
+Jonas Windhager  
+[jonas.windhager@scilifelab.se](mailto:jonas.windhager@scilifelab.se)  
+[SciLifeLab BioImage Informatics Facility](https://www.scilifelab.se/units/bioimage-informatics/)
