@@ -1,0 +1,13 @@
+name: steinbock-webinar
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - notebook
+  - bash_kernel
+  - pip:
+    - napari[all]
+    - pandas
+    - tifffile
