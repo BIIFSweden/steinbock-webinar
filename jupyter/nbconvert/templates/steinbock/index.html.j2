@@ -1,0 +1,23 @@
+{%- extends 'reveal/index.html.j2' -%}
+
+{%- block html_head -%}
+
+{{ super() }}
+
+<style type="text/css">
+:root {
+  --jp-code-font-size: 12px;
+  --jp-content-font-size1: 18px;
+}
+.reveal h1 {
+  font-size: 72px !important;
+}
+.reveal h2 {
+  font-size: 36px !important;
+}
+.jp-RenderedHTMLCommon code {
+  font-size: 12px !important;
+}
+</style>
+
+{%- endblock html_head -%} 
