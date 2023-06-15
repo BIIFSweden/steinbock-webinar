@@ -9,6 +9,16 @@
 - [_steinbock_ toolkit](https://bodenmillergroup.github.io/steinbock/v0.16.1/)
 - Webinar recording (coming soon)
 
+## Prerequisites (hands-on session)
+
+Windows, Mac OS or Linux
+
+Install Docker, see [_steinbock_ Docker prerequisites](https://bodenmillergroup.github.io/steinbock/latest/install-docker/#prerequisites)
+
+Download the [imaging mass cytometry (IMC) example data](https://zenodo.org/record/7575859)
+
+Download the [corresponding panel.csv file in _steinbock_ format](https://zenodo.org/record/7624451/files/panel.csv)
+
 ## Further reading
 
 - [Analysis workflow for IMC data](https://bodenmillergroup.github.io/IMCDataAnalysis/)
