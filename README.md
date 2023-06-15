@@ -17,9 +17,9 @@ Download the [imaging mass cytometry (IMC) example data](https://zenodo.org/reco
 
 Download the [corresponding panel.csv file in _steinbock_ format](https://zenodo.org/record/7624451/files/panel.csv)
 
-## Further reading
+## Further resources
 
-- [_steinbock_ toolkit documentation](https://bodenmillergroup.github.io/steinbock/latest/)
+- [_steinbock_ online documentation](https://bodenmillergroup.github.io/steinbock/latest/)
 - [Online analysis workflow for IMC data](https://bodenmillergroup.github.io/IMCDataAnalysis/)
 - [Workflow preprint](https://www.biorxiv.org/content/10.1101/2021.11.12.468357v1)
   > Windhager et al. (2021). _An end-to-end workflow for multiplexed image processing and analysis._ bioRxiv.  
