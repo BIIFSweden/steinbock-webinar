@@ -12,7 +12,7 @@
 
 Windows, Mac OS or Linux
 
-Install Docker, see [_steinbock_ Docker prerequisites](https://bodenmillergroup.github.io/steinbock/latest/install-docker/#prerequisites)
+Install Docker, see [_steinbock_ Docker instructions](https://bodenmillergroup.github.io/steinbock/latest/install-docker/#prerequisites)
 
 Download the [imaging mass cytometry (IMC) example data](https://zenodo.org/record/7575859)
 
