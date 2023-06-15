@@ -27,6 +27,7 @@ Download the [corresponding panel.csv file in _steinbock_ format](https://zenodo
 - Workflow publication:
   > Windhager et al. (2023). _An end-to-end workflow for multiplexed image processing and analysis._ Nature Protocols (accepted).  
   > doi: _updated upon publication_.
+- [Multiplexed Tissue Imaging Workshop 2023](https://github.com/BodenmillerGroup/ImagingWorkshop2023) (Bodenmiller Lab, ETH Zurich/University of Zurich)
 
 ## Contact details
 
