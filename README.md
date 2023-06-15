@@ -5,7 +5,6 @@
 - [Slides](https://docs.google.com/presentation/d/1DXDmayYbQMyU4J6l2ooOEVU5w1QfW64f)
   - [Hands-on session](steinbock.ipynb)
   - [Image visualization](napari.ipynb)
-- [_steinbock_ toolkit documentation](https://bodenmillergroup.github.io/steinbock/v0.16.1/)
 - Webinar recording (coming soon)
 
 ## Prerequisites (hands-on session)
@@ -20,6 +19,7 @@ Download the [corresponding panel.csv file in _steinbock_ format](https://zenodo
 
 ## Further reading
 
+- [_steinbock_ toolkit documentation](https://bodenmillergroup.github.io/steinbock/latest/)
 - [Online analysis workflow for IMC data](https://bodenmillergroup.github.io/IMCDataAnalysis/)
 - [Workflow preprint](https://www.biorxiv.org/content/10.1101/2021.11.12.468357v1)
   > Windhager et al. (2021). _An end-to-end workflow for multiplexed image processing and analysis._ bioRxiv.  
