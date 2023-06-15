@@ -21,10 +21,10 @@ Download the [corresponding panel.csv file in _steinbock_ format](https://zenodo
 ## Further reading
 
 - [Analysis workflow for IMC data](https://bodenmillergroup.github.io/IMCDataAnalysis/)
-- [Workflow preprint](https://www.biorxiv.org/content/10.1101/2021.11.12.468357v1):
+- [Workflow preprint](https://www.biorxiv.org/content/10.1101/2021.11.12.468357v1)
   > Windhager et al. (2021). _An end-to-end workflow for multiplexed image processing and analysis._ bioRxiv.  
   > doi: [10.1101/2021.11.12.468357](https://doi.org/10.1101/2021.11.12.468357).
-- Workflow publication:
+- Workflow publication
   > Windhager et al. (2023). _An end-to-end workflow for multiplexed image processing and analysis._ Nature Protocols (accepted).  
   > doi: _updated upon publication_.
 - [Multiplexed Tissue Imaging Workshop 2023](https://github.com/BodenmillerGroup/ImagingWorkshop2023) (Bodenmiller Lab, ETH Zurich/University of Zurich)
