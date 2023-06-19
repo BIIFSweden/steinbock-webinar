@@ -9,7 +9,7 @@ https://www.scilifelab.se/event/steinbock-a-toolkit-for-processing-multiplexed-t
 - [Slides](https://docs.google.com/presentation/d/1DXDmayYbQMyU4J6l2ooOEVU5w1QfW64f)
   - [Hands-on session](steinbock.ipynb)
   - [Image visualization](napari.ipynb)
-- Webinar recording (coming soon)
+- [Webinar recording](https://www.youtube.com/watch?v=CiyFPS9ig8o)
 
 ## Prerequisites (hands-on session)
 
